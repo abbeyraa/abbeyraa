@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @abbeyraa
+  This is my main account from @abbyrasya -> school account
 - 👀 I’m interested in Anything?
 - 🌱 I’m currently learning ...
 - 📫 How to reach me?
