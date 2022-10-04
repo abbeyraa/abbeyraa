@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbeyraa
-  This is my main account from @abbyrasya -> school account
+  This is my main account. I am a college student at Bina Nusantara University.
 
 <!---
 abbeyraa/abbeyraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
