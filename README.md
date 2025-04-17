@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Abbey (@abbeyraa)
+## 👋 Hi, I’m Abby (@abbeyraa)
 
-🎓 College student at Bina Nusantara University    
+🎓 Fresh graduate from Bina Nusantara University    
 📊 Interested in Data Science & Software Development  
 📱 Working on a money tracker app using Flutter
 
