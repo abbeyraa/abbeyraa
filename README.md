@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Abby (@abbeyraa)
+🎓 Fresh graduate from Bina Nusantara University
 
-🎓 Fresh graduate from Bina Nusantara University    
-📊 Interested in Data Science & Software Development  
-📱 Working on a money tracker app using Flutter
+Working on a Finance Management (web)
 
 Let's connect and collaborate!  
 📬 abbeyraa@gmail.com
